@@ -1,6 +1,8 @@
 # Resources I've Gathered
 Resources I've gathered
 
+## Note: The wiki is a more easily searchable version: https://github.com/AmyShackles/Resources/wiki
+
 ## Notes I've Taken (on Lambda lectures, outside lectures, books I'm reading):
 Turned it into a website, so it can now be found at https://notes-for-great-good.netlify.com 
 
